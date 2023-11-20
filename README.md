@@ -3,7 +3,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/danaattie?label=Follow&style=social)](https://github.com/danaattie)
 
-I'm passionate about coding and technology. I am capable of adapting in different environments as I am eager to learn and discover new trends in every field. 
+I'm passionate about coding and technology. I am capable of adapting in different environments as I am eager to learn and discover new trends in every field, having lived in 3 cities.
 
 ## About Me
 - 🌎 Background : Originally from Lebanon, I studied Economics in Montreal, Canada (https://www.concordia.ca)
