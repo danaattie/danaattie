@@ -9,11 +9,10 @@ I'm passionate about coding and technology. I am capable of adapting in differen
 - 🌎 Background : Originally from Lebanon, I studied Economics in Montreal, Canada (https://www.concordia.ca)
 - 📚 Most recent studies : Master in Computer Science and Business Technology at IE University (https://ie.edu)
 
-## Technical skills
+## Technical skills and tools
 - 💻 Canva | Python | Google Cloud
-- 🚀 | React | 
-- 🛢️  | 
-- ...
+
+
 
 ## Contact
 [linkedin.com/in/dana-attié-9b333512b](https://www.linkedin.com/in/dana-attié-9b333512b/)
