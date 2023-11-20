@@ -10,7 +10,7 @@ I'm passionate about coding and technology. I am capable of adapting in differen
 - 📚 Most recent studies : Master in Computer Science and Business Technology at IE University (https://ie.edu)
 
 ## Projects 
-
+- Showcasing econometrics in a specific topic 
 
 ## Technical skills and tools
 - 💻 Canva | Python | Google Cloud
