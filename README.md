@@ -6,7 +6,7 @@
 I'm passionate about coding and technology. I am capable of adapting in different environments as I am eager to learn and discover new trends in every field. 
 
 ## About Me
-- 🌎 Background : Originally from Lebanon, I studied Economics in Montreal, Canada.  
+- 🌎 Background : Originally from Lebanon, I studied Economics in Montreal, Canada (https://www.concordia.ca)
 - 📚 Most recent studies : Master in Computer Science and Business Technology at IE University (https://ie.edu)
 
 ## Tech Stack
