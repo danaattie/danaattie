@@ -15,7 +15,7 @@ I'm passionate about coding and technology.
 - ...
 
 ## Contact
-(linkedin.com/in/dana-attié-9b333512b) 
+([linkedin.com/in/dana-attié-9b333512b](https://www.linkedin.com/in/dana-attié-9b333512b/)https://www.linkedin.com/in/dana-attié-9b333512b/) 
 
 
 
