@@ -18,7 +18,8 @@ I'm passionate about coding and technology. I am capable of adapting in differen
 
 
 ## Let's Connect 
-[linkedin.com/in/dana-attié-9b333512b](https://www.linkedin.com/in/dana-attié-9b333512b/)
+[LinkedIn](https://www.linkedin.com/in/dana-attié-9b333512b)
+
 
 
 
