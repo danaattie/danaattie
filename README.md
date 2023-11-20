@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I'm Dana! 👋
 
-<!--
-**danaattie/danaattie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/danaattie?label=Follow&style=social)](https://github.com/danaattie)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about coding and technology. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 📚 Studying Computer Science and Business Technology at IE University (https://ie.edu)
+
+## Tech Stack
+- 💻 JavaScript | Python | Google Cloud
+- 🚀 Node.js | React | 
+- 🛢️  | MySQL
+- ...
+
+
+
+
