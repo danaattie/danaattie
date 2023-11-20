@@ -10,7 +10,7 @@ I'm passionate about coding and technology. I am capable of adapting in differen
 - 📚 Most recent studies : Master in Computer Science and Business Technology at IE University (https://ie.edu)
 
 ## Tech Stack
-- 💻 JavaScript | Python | Google Cloud
+- 💻 Canva | Python | Google Cloud
 - 🚀 | React | 
 - 🛢️  | 
 - ...
