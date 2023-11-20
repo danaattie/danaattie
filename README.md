@@ -13,7 +13,7 @@ I'm passionate about coding and technology. I am capable of adapting in differen
 - Showcasing econometrics in a specific topic 
 
 ## Technical skills and tools
-- 💻 Canva | Python | Google Cloud
+- 💻 Canva | Python | SQL
 
 
 
